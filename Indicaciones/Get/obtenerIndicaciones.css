@@ -1,0 +1,25 @@
+.table {
+  margin-top: 20px;
+}
+
+.input-search {
+  float: right;
+  border: 1px solid #cccccc;
+  box-shadow: 0 0 0 1px #cccccc;
+  width: 230px;
+  border-radius: 5px;
+}
+
+.icon-search {
+  margin: 0px 3px 0px 3px;
+}
+
+.btn-nuevaIndicacion {
+  float: left;
+}
+
+.indicacionAImprimir{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
